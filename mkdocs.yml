@@ -1,0 +1,13 @@
+site_name: OpenBooks | 开卷
+repo_url: https://github.com/e3f058/openbooks
+site_author: E3F058
+nav:
+    - '雕刻时光':
+        - '前言': 'sculpting_in_time/qianyan.md'
+        - '缘起': 'sculpting_in_time/yuanqi.md'
+        - '艺术': 'sculpting_in_time/yishu.md'
+markdown_extensions:
+    - toc:
+        permalink: True
+theme:
+    name: readthedocs
